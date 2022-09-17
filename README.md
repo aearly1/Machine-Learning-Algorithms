@@ -1,1 +1,2 @@
 # Machine-Learning-Algorithms
+Several machine learning classification algorithms have been implemented from scratch. These algorithms include Fisher’s Linear Discriminant classification algorithm, Naïve Bayes classifier and the maximum likelihood estimation of the Gaussian generative model. Additionally, the k-means clustering algorithm has been implemented. The algorithms have been trained to classify various images using several data sets including a segment of the machine learning benchmark CIFAR-10 dataset.
